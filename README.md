@@ -3,7 +3,8 @@ A utility software to optimize texture sizes and dimensions.
 
 
 
----------------------   Texture-Resize-1.0   ---------------------
+Texture-Resize-1.0
+----------------------
 Auther: Ravi Prakash Singh
 
 
