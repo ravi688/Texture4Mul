@@ -1,0 +1,18 @@
+[submodule "dependencies/Maratis-Tiny-C-library"]
+	path = dependencies/Maratis-Tiny-C-library
+	url = https://github.com/anael-seghezzi/Maratis-Tiny-C-library.git
+[submodule "dependencies/cmd_arger"]
+	path = dependencies/cmd_arger
+	url = https://github.com/heroseh/cmd_arger.git
+[submodule "dependencies/cmdline"]
+	path = dependencies/cmdline
+	url = https://github.com/valbendan/cmdline.git
+[submodule "dependencies/cwalk"]
+	path = dependencies/cwalk
+	url = https://github.com/likle/cwalk.git
+[submodule "dependencies/libattopng"]
+	path = dependencies/libattopng
+	url = https://github.com/misc0110/libattopng.git
+[submodule "dependencies/stb"]
+	path = dependencies/stb
+	url = https://github.com/nothings/stb.git
